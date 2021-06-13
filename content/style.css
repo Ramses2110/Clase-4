@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+section {
+    height: 100vh;
+    background: #fff;
+}
+ video{
+     object-fit: cover;
+
+ }
+ 
